@@ -13,8 +13,8 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # API configuration
-API_KEY = "AIzaSyARJaqV15qwi1R8jEQTvl7npaby8LVGalY"
-CSE_ID = "83be00107795e467f"
+API_KEY = "import your API key"
+CSE_ID = "add your custom search engine(google) ID"
 
 # Lemmatizer
 lemmer = WordNetLemmatizer()
